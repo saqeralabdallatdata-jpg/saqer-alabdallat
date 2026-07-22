@@ -23,12 +23,15 @@ Modern industrial assembly lines require continuous, microscopic-level quality c
 
 ---
 
-## 📸 Platform Telemetry Dashboard
+## 📸 Platform Telemetry & Live Execution Showcase
 
-Below is a live preview of the operational control console analyzing an active PCB board asset stream:
+Below are live production screenshots of the VisionForge AI Platform executing real-time inspection, OCR extraction, component verification, and RCA diagnostics:
 
-![VisionForge AI Control Console](https://raw.githubusercontent.com/saqer-alabdallat/visionforge-ai-platform/main/docs/dashboard_pcb.png)
+| 1. Asset Frame Injection | 2. Real-Time Telemetry Matrix | 3. Intelligent RCA Diagnostics |
+| :---: | :---: | :---: |
+| ![Frame Injection](Screenshot%202026-07-17%20183212.png) | ![Inspection Matrix](Screenshot%202026-07-17%20183342.png) | ![RCA Diagnostics](Screenshot%202026-07-17%20183359.png) |
 
+> 💡 **Note:** The platform dynamically parses multi-dimensional tensors, calculates surface roughness, extracts OCR batch markers, and computes calibrated anomaly scores for active learning queues.
 ---
 
 ## 🏗️ End-to-End System Architecture
